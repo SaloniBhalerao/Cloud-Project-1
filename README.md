@@ -5,4 +5,4 @@ Professor Sanjay Garje
 ISA: Divyankitha Urs
 Student: Saloni Sharad Bhalerao 
 Linkedin Profile: https://www.linkedin.com/in/saloni-bhalerao-52984513a
-(/relative/path/to/Welcome.jpg?raw=true "Welcome page")
+![alt text](https://github.com/SaloniBhalerao/Cloud-Project-1/blob/master/Welcome.jpg)
